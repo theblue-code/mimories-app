@@ -9,7 +9,7 @@ export default function Footer() {
           <span>
             Developed By{" "}
             <Link
-              href="https://personal-site-7b9m.vercel.app"
+              href="https://yazanunis.vercel.app"
               className="text-blue-500 hover:underline"
             >
               YazanUnis
